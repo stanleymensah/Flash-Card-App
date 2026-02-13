@@ -1,6 +1,6 @@
 import Header from "./Header";
-import Loader from "../ui/loader";
-import Card from "../ui/card";
+import Loader from "../ui/Loader";
+import Card from "../ui/Card";
 import NavButtons from "../ui/NavButtons";
 import { useState } from "react";
 import { questions } from "./questions";
